@@ -1,3 +1,6 @@
 define(function(){
-    var name = "lv"
+    var name = "qq"
+
+    var go = function(){
+    }
 });
