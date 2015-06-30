@@ -1,1 +1,3 @@
-define(function(){});
+define(function(){
+    var name = "lv"
+});
